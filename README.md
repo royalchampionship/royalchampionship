@@ -26,3 +26,15 @@ To be specific, we will be hosting seasonal PLEs. PLEs (Premium Live Events) are
 
 
 <h1>What do we offer for you?</h1>
+<p align="center">
+Lore, a Custom Combat System, Roleplay, Unique Events you Wont Find Anywhere Else!
+Multiple Careers (COMING SOON), Silly Staff AND Members, and Welcoming to Beginners!
+</p>
+
+<p align="center">
+If you wish to join us, try and find one of us at docks! We are looking for active members to join us.
+</p>
+
+<p align="center">
+<img width="656" height="560" alt="image" src="https://i.postimg.cc/9f3xwtqg/image.webp" >
+</p>
