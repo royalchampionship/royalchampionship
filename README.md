@@ -17,5 +17,12 @@ While we do normal regiment activities - like recruitments, marches, and patrols
 </p>
 
 <p align="center">
-To be specific, we will be hosting seasonal PLEs. PLEs (Premium Live Events) are major events hosted by wrestling promotions. In RCW, these events that will be involved with our lore and involve our custom match combat system. Anyone will be free to join them and spectate the matches! They will also be uploaded in their entirety to our Youtube channel.
+To be specific, we will be hosting seasonal PLEs. PLEs (Premium Live Events) are major events hosted by wrestling promotions. In RCW, these events that will be involved with our lore and involve our custom match combat system. Anyone will be free to join them and spectate the matches! They will also be uploaded in their entirety to our Youtube channel. We also have titles you will be able to win during these matches.
 </p>
+
+<p align="center">
+<img width="828" height="237" alt="image" src="https://i.postimg.cc/mgKY6LbK/image.png" >
+</p>
+
+
+<h1>What do we offer for you?</h1>
