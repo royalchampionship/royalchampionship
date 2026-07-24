@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2038" height="123" alt="image" src="https://64.media.tumblr.com/da5e4b6c50f82b3b740d2a09d5554c41/d4b79136d0f51ef1-24/s400x600/4fd3af6f0aadeef98647a4ab38d1b51279aca5fe.pnj" >
+<img width="2048" height="128" alt="image" src="https://64.media.tumblr.com/da5e4b6c50f82b3b740d2a09d5554c41/d4b79136d0f51ef1-24/s2048x3072/85c38ba299733eca6a43df40d76611705e0e2dbb.pnj" >
 </p>
 
 # Welcome to Royal Championship Wrestling!
