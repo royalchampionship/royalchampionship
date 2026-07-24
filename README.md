@@ -14,4 +14,6 @@ We are a regiscout group that is based off of pro-wrestling promotions. We are t
 <h1>What is so great about us?</h1>
 <p align="center">
 While we do normal regiment activities - like recruitments, marches, and patrols - we have a lot of unique events and features!
+
+To be specific, we will be hosting seasonal PLEs. PLEs (Premium Live Events) are major events hosted by wrestling promotions. In RCW, these events that will be involved with our lore and involve our custom match combat system. Anyone will be free to join them and spectate the matches! They will also be uploaded in their entirety to our Youtube channel.
 </p>
