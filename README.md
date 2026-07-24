@@ -12,4 +12,6 @@ We are a regiscout group that is based off of pro-wrestling promotions. We are t
 </p>
 
 <h1>What is so great about us?</h1>
-everything
+<p align="center">
+While we do normal regiment activities - like recruitments, marches, and patrols - we have a lot of unique events and features!
+</p>
