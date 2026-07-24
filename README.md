@@ -4,7 +4,7 @@
 
 # Welcome to Royal Championship Wrestling!
 <p align="center">
-We are a regiscout group that is based off of pro-wrestling promotions. We are the first, and only, Ponytown wrestling promotion!
+We are a regiscout group that is based off of pro-wrestling promotions. We are the first - and only - Ponytown wrestling promotion!
 </p>
 
 <p align="center">
