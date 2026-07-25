@@ -31,7 +31,7 @@ To be specific, we will be hosting seasonal PLEs. PLEs (Premium Live Events) are
 <h1>What do we offer for you?</h1>
 <p align="center">
 Lore, a Custom Combat System, Roleplay, Unique Events you Wont Find Anywhere Else!
-Multiple Careers (COMING SOON), Silly Staff AND Members, and Welcoming to Beginners!
+Multiple Careers (wrestler, referee, and security), Silly Staff AND Members, and Welcoming to Beginners!
 </p>
 
 <p align="center">
