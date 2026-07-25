@@ -3,6 +3,9 @@
 </p>
 
 <h1>Welcome to Royal Championship Wrestling!</h1>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+
 <p align="center">
 We are a regiscout group that is based off of pro-wrestling promotions. We are the first - and only - Ponytown wrestling promotion!
 </p>
